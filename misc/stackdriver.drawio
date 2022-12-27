@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T17:33:20.770Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eaS6qC7H7-l57lLhfcKF" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T17:38:13.224Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bVCgPb25ci-2jH94PlOt" version="20.4.0" type="github">
   <diagram id="r16rBCOsekxFG_E0lbZd" name="Page-1">
     <mxGraphModel dx="867" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FmATd2VmrWDmWKjp4jXl-1" value="Customer Bank Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FmATd2VmrWDmWKjp4jXl-1" value="Customer Bank Account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FmATd2VmrWDmWKjp4jXl-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FmATd2VmrWDmWKjp4jXl-1" target="FmATd2VmrWDmWKjp4jXl-18">
@@ -13,7 +13,7 @@
             <mxPoint x="550" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FmATd2VmrWDmWKjp4jXl-5" value="Google Cloud Bank Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FmATd2VmrWDmWKjp4jXl-5" value="Google Cloud Bank Account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="550" y="155" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FmATd2VmrWDmWKjp4jXl-10" value="" style="image;html=1;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="FmATd2VmrWDmWKjp4jXl-17" value="" style="image;html=1;image=img/lib/clip_art/finance/Coins_128x128.png" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="40" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FmATd2VmrWDmWKjp4jXl-18" value="Stackdriver" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+        <mxCell id="FmATd2VmrWDmWKjp4jXl-18" value="Stackdriver" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="400" y="185" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FmATd2VmrWDmWKjp4jXl-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -49,8 +49,8 @@
             <mxPoint x="550" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FmATd2VmrWDmWKjp4jXl-20" value="Stacks of money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="125" width="60" height="30" as="geometry" />
+        <mxCell id="FmATd2VmrWDmWKjp4jXl-20" value="Stacks of money" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmATd2VmrWDmWKjp4jXl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FmATd2VmrWDmWKjp4jXl-20" target="FmATd2VmrWDmWKjp4jXl-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
